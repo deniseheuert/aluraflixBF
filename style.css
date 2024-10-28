@@ -11,4 +11,8 @@ section {
     }
     "chamada-texto"{
         margin_right: 5%;
+
+    }
+    img{
+        height: 200px;
     }
